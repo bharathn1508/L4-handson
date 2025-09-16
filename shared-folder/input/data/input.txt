@@ -1,0 +1,3 @@
+Hello Bharath.
+This is Cloud Computing Class.
+You have to do Hadoop map reduce Hands on in the class.
